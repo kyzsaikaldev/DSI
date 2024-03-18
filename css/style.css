@@ -1,0 +1,144 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: rgb(255, 255, 255);
+
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    transition: .4s;
+}
+
+button {
+    border: none;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.header {
+    padding-top: 40px;
+}
+
+
+
+.header h3 {
+    color: rgba(38, 50, 56, 0.8);
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.header h2 {
+    color: rgb(38, 50, 56);
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.header-nav a {
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 25px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.hero h1 span {
+    color: #ff2e34 ;
+
+}
+
+.hero {
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 150px;
+}
+
+.hero img
+
+.hero button {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 4px;
+    background: rgb(238, 66, 78);
+}
+
+.about {
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about h2 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.about h2 span {
+    color: #ff2e34;
+}
+
+.about p {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.about p span {
+    color: #ff2e34;
+}
+
+
+.welcome h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(31, 46, 53);
+    font-size: 32px;
+    font-weight: 500;
+    padding-top: 116px;
+}
+
+.welcome-title  {
+
+}
+
+.welcome-title button {
+    border-radius: 4px;
+    background: rgb(238, 66, 72);
+}
+
+.welcome-title h2 {
+    color: rgb(238, 66, 72);
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.welcome-title p {
+    color: rgb(48, 68, 78);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.welcome-title h1 {
+    color: rgb(238, 66, 72);
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.welcome-title h4 {
+    color: rgb(238, 66, 72);
+    font-size: 28px;
+    font-weight: 500;
+}
